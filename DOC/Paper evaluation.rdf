@@ -1,0 +1,243 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_63">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>教学月刊·中学版(教学参考)</dc:title><prism:number>12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>陈熙</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_207"/>
+        <dcterms:isReferencedBy rdf:resource="#item_64"/>
+        <link:link rdf:resource="#item_65"/>
+        <dc:title>生成式人工智能赋能历史教学：价值、场景、挑战及应对</dc:title>
+        <dcterms:abstract>对历史教学而言，引入生成式人工智能不仅是响应国家发展战略的应有之义，而且是顺应课程改革、赋能课堂教学的必然要求。生成式人工智能是一把双刃剑，其可在拟定教学框架、设计学生活动、美化教学课件、优化教学语言、构建生成式课堂、生成评价试题等方面赋能历史教学，也可能带来产生误导、导致教师产生技术依赖、冲击历史教师角色定位、引发价值观导向偏差等问题。为此，历史教师要积极融入生成式人工智能时代、拓宽获取知识的路径、适应角色转变、坚持正确价值导向，以推动历史教学的创新发展。</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>汉语</z:language>
+        <bib:pages>54-58</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_207">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: var(--dsw-alias-label-primary)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Page 4: Optimizing Instructional Language&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: var(--dsw-alias-label-primary)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: var(--dsw-alias-label-primary)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: var(--dsw-alias-label-primary)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;Leveraging generative artificial intelligence can breathe new life into the static texts of history textbooks. It transforms dry historical accounts into vivid narratives rich with detail and plot, and restores abstract causal patterns to the real choices made by individuals caught in the torrent of their times. What this approach awakens is not only students' curiosity about history but also their profound resonance with the human condition—allowing cold historical records to blossom with humanistic warmth, and truly revealing the charm and essence of history as a humanities discipline.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(128, 0, 128)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_64">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;pre&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;Research on the classification and functions of educational digital tools&lt;/span&gt;&lt;/strong&gt;&lt;/pre&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[1]陈熙.生成式人工智能赋能历史教学：价值、场景、挑战及应对[J].教学月刊·中学版(教学参考),2024(12):54-58.</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLASN2025&amp;filename=JXYZ202412010&amp;uniplatform=OVERSEA&amp;v=kVx7xoGaB_OAeozAIoERVjkxo16GgfdehDJSuy710xZ7YFcYQI14bym3VuybFKVq</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-19 09:48:57</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Report rdf:about="https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>Medicine, Science, &amp; Technology, Research Methods, Teaching Methods</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Historical Association</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>American Historical Association</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_191"/>
+        <link:link rdf:resource="#item_192"/>
+        <dc:title>Guiding Principles for Artificial Intelligence in History Education</dc:title>
+        <dcterms:abstract>In 2023, the American Historical Association Council charged an Ad Hoc Committee on Artificial Intelligence in History Education with exploring the implications of generative artificial intelligence (AI) for history teaching and learning (see the glossary in Appendix 1). A separate committee is focused on research and publication, which falls outside our purview.
+
+This committee recognizes that generative AI tools offer significant opportunities to improve teaching and student learning. At the same time, we respect the concerns expressed by history educators, many of whom feel overwhelmed, distracted, or frustrated by these technologies.
+
+While generative AI is undeniably powerful, it cannot replace human teachers. The most extreme proposals to automate education betray a fundamental misunderstanding of teaching and learning, the core competencies we aim to cultivate in students, and the deeply human-centered work of education. Indeed, the rapid adoption of AI tools suggests that it has never been more important to appreciate the complexity of our shared past and what it means to be human.
+
+History educators have been seeking guidance on how to responsibly and effectively incorporate generative AI into their teaching practice. Some have voiced concerns about the challenges of maintaining academic integrity; others have raised important ethical, environmental, and economic objections to these technologies and their application. We minimize none of these concerns. Given the speed at which technologies are changing, and the many local considerations to be taken into account, the AHA will not attempt to provide comprehensive or concrete directives for all instances of AI use in the classroom. Instead, we offer a set of guiding principles that have emerged from ongoing conversations within the committee, and input from AHA members via a survey and conference sessions.</dcterms:abstract>
+        <dc:date>2025.08.05</dc:date>
+        <z:language>ENGLISH</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Memo rdf:about="#item_191">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;pre&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;Research on history teaching theory and objectives&lt;/span&gt;&lt;/strong&gt;&lt;/pre&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_192">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://researchonline.ljmu.ac.uk/id/eprint/25461/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Primary History</dc:title><prism:number>98</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lea, Simon and Fidler, Ailsa</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_195"/>
+        <link:link rdf:resource="#item_194"/>
+        <dc:title>Artificial Intelligence (AI) in Primary History – Take CARE!</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://researchonline.ljmu.ac.uk/id/eprint/25461/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>44-51</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_195">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Proposes a Highly Practical CARE Framework with Strong Guidance for Teacher Practice&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;Location: Page 3, &quot;A framework for using AI – CARE&quot; section&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;The article proposes the CARE framework –&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;ollect,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;sk,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;eview,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;xplore – which provides clear and safe steps for frontline teachers (especially non-specialist or novice teachers) to use AI. This framework emphasizes information gathering, precise questioning, critical review, and exploratory improvement, positioning the teacher as a &quot;guide&quot; for AI rather than a &quot;passive recipient&quot;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_194">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_196">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Education Sciences</dc:title>
+                <dc:identifier>DOI 10.3390/educsci14050530</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kinderberg, Björn</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_205"/>
+        <link:link rdf:resource="#item_197"/>
+        <dc:title>ChatGPT-Generated and Student-Written Historical Narratives: A Comparative Analysis</dc:title>
+        <dc:date>2024</dc:date>
+        <bib:pages>530</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_205">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;ChatGPT Excels in Narrative Quality but Lacks Emotional and Moral Dimensions&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;Location: Pages 7–9, &quot;Results&quot; section, particularly Figures 1, 2, and corresponding analysis&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;The study clearly shows that ChatGPT outperforms student writing in terms of linguistic fluency, structural coherence, and the use of complex rhetorical devices. However, it is notably weak in &quot;moral response stance&quot; and &quot;emotional expression.&quot; Especially without feedback, its texts appear detached, analytical, and lack human warmth.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Proposes a Constructive Shift: From &quot;Preventing Plagiarism&quot; to &quot;Guided Utilization&quot;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;Location: Latter part of Page 14, &quot;Discussion&quot; section&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;Instead of merely criticizing, the authors offer forward-looking pedagogical recommendations: rather than attempting to eliminate the use of ChatGPT, it should be leveraged as a teaching aid—for generating writing templates, providing feedback, simulating historical perspectives, etc.—thereby integrating AI into a &quot;coaching-style&quot; teaching process to empower rather than replace student learning.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_197">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_198">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:https://link.springer.com/article/10.1007/s11528-025-01062-4"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chimbunde, Pfuturai and Moreneg, Boitumelo Benjamin</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_204"/>
+        <link:link rdf:resource="#item_199"/>
+        <dc:title>Reconfiguring History Teachers’ Assessment Practices in the Context of ChatGPT: Charting the New Terrain</dc:title>
+        <dc:date>2025</dc:date>
+        <bib:pages>607--617</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:https://link.springer.com/article/10.1007/s11528-025-01062-4">
+        <prism:volume>69</prism:volume>
+        <dc:title>TechTrends</dc:title>
+        <dc:identifier>ISSN https://link.springer.com/article/10.1007/s11528-025-01062-4</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_204">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Pages 5–6: &quot;Challenges of ChatGPT in Assessing History Students&quot;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;The article elaborates on four major challenges posed by ChatGPT in history assessment: plagiarism and academic integrity, diminished critical thinking, widening digital divides, and lack of human interaction. It particularly highlights how the discipline's reliance on textual output makes it especially vulnerable to AI-generated content, offering a clear subject-specific analysis.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Lack of Empirical Support in the Research&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;br&gt;Page 4: &quot;Methodology&quot; section&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;This study lacks data from students or frontline teachers, making it more of a conceptual or theoretical exploration that provides foundational ideas for future research.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_199">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_200">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:https://link.springer.com/article/10.1007/s10639-024-12485-6"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yetisensoy, Okan and Karaduman, Hidir</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_206"/>
+        <dc:title>The Effect of AI-Powered Chatbots in Social Studies Education</dc:title>
+        <bib:pages>17035--17069</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:https://link.springer.com/article/10.1007/s10639-024-12485-6">
+        <prism:volume>29</prism:volume>
+        <dc:title>Education and Information Technologies</dc:title>
+        <dc:identifier>DOI 10.1007/s10639-024-12485-6</dc:identifier>
+        <dc:identifier>ISSN https://link.springer.com/article/10.1007/s10639-024-12485-6</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_206">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Location: Pages 9-11, &quot;Development of chatbots&quot; section and Table 3&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Evaluation:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(15, 17, 21)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;The &quot;SosyalciBot&quot; chatbot design transcends basic question-answering functionality. It is built upon constructivist learning theory and human-centric AI principles, incorporating multiple functionalities such as lecturing, Q&amp;amp;A exercises, instant feedback, hint provision, and visual aids. The design also thoughtfully addresses social presence through elements like an avatar and backstory, demonstrating a meticulously considered integration of pedagogical methods into the technological architecture.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_203">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+</rdf:RDF>
