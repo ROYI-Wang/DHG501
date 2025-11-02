@@ -1,2 +1,5 @@
 # DHG501
 作业论文相关
+The current education landscape faces a core contradiction: AI-driven technological transformation clashes with traditional teaching methods, while digital-native students have fundamentally shifted in their learning habits and cognitive styles. Against this backdrop, history teaching is undergoing profound reform, guided by new curriculum standards that emphasize core competencies and pivot from knowledge transmission to fostering high-order abilities like historical evidence analysis, interpretation, and spatiotemporal understanding.
+
+AI injects new vitality into history education by creating immersive scenarios, serving as intelligent assistants for lesson preparation, and enabling data-driven personalized learning. This shift turns students from passive recipients into active "knowledge alchemists" who investigate history. Moving forward, the key challenge is to strike an organic balance between technology and humanities, ensuring AI truly serves the deepening of historical thinking and national sentiment, rather than merely acting as a tool for efficiency.
